@@ -1,27 +1,25 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:25.654631
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:43
 #+TITLE: 金剛錍科
 #+PROPERTY: CBETA_ID X56n0934
 #+PROPERTY: ID KR6d0178
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 56, No. 934
 #+PROPERTY: VOL 56
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0178_X_001-0513a> 
 #+PROPERTY: JUAN 1
-No.934¶
+No. 934¶
 
-序¶
+* 金剛錍一卷(并)序¶
 
 斯文雖非常途經論亦欲效之以分三段從初至凡一念為序段從曾於靜夜下至與子相遇為正說段下去為¶
 流通段正中大略開為十段初正立宗旨次從於是野客下會異名三從故知世人下簡非顯是四從余欲開導¶
 下出法正體五從客曰仁所立義下辨法攝六從余曰觀子所見下顯體所歸七從然子所領下明法師承八從¶
 客曰屢聞下去迷從悟九從客曰斯失下判教所屬十從當知一乘下撚撮改束此是論主自料故錄於首。¶
-
- 金剛錍文句科¶
+金剛錍文句科¶
 孤山沙門釋　智圓　集¶
 
-金剛錍文句科
   
   * 釋金剛[金*((白-日+田)/廾)]大分(二)¶
   
